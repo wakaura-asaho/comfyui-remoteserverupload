@@ -2,7 +2,9 @@
 
 Upload images, videos, LoRA weights, and training datasets from ComfyUI workflows to a remote HTTP file server — without saving to the local output folder first.
 
-![Logo](https://github.com/wakaura-asaho/comfyui-remoteserverupload/blob/main/docs/logo_notitle.png)
+<p align="center">
+<img src="https://github.com/wakaura-asaho/comfyui-remoteserverupload/blob/main/docs/logo_notitle.png" alt="Logo" style="display: block; margin: 0 auto; text-align: center;">
+</p>
 
 ---
 
