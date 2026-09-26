@@ -1,0 +1,29 @@
+[project]
+name = "comfyui-remoteserverupload"
+description = "Upload images to a remote server with ComfyUI."
+version = "1.0.0"
+authors = [
+  {name = "Wakaura Asaho", email = "onestandaction@gmail.com"}
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+classifiers = []
+dependencies = [
+  "requests",
+  "tqdm",
+  "safetensors>=0.4.2",
+  "Pillow",
+  "numpy>=1.25.0"
+]
+
+[project.urls]
+Repository = "https://github.com/wakaura-asaho/comfyui-remoteserverupload"
+homepage = "https://github.com/wakaura-asaho/comfyui-remoteserverupload"
+bugs = "https://github.com/wakaura-asaho/comfyui-remoteserverupload/issues"
+
+[tool.comfy]
+PublisherId = "wakaura"
+DisplayName = "Comfyui-RemoteServerupload"
+Icon = "https://avatars.githubusercontent.com/u/211500799"
+Documentation = "https://github.com/wakaura-asaho/comfyui-remoteserverupload/blob/main/docs/README.md"
+requires-comfyui = ">=0.12.3"

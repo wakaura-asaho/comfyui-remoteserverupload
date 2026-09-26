@@ -1,0 +1,6 @@
+# All are already installed in the ComfyUI's requirements.txt
+# requests
+# tqdm
+# safetensors>=0.4.2
+# Pillow
+# numpy>=1.25.0

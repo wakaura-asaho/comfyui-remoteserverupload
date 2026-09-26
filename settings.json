@@ -1,0 +1,12 @@
+{
+    "default_address": "192.168.1.100",
+    "default_port": 8765,
+    "default_use_credentials": false,
+    "default_username": "",
+    "default_password": "",
+    "save_password_in_workflow": true,
+    "health_connect_timeout": 5.0,
+    "assumed_bandwidth_mbps": 5.0,
+    "safety_multiplier": 3.0,
+    "min_timeout": 30.0
+}
