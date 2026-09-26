@@ -1,7 +1,7 @@
 [project]
-name = "comfyui-remoteserverupload"
+name = "comfyUI-remoteserverupload"
 description = "Upload images to a remote server with ComfyUI."
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   {name = "Wakaura Asaho", email = "onestandaction@gmail.com"}
 ]
